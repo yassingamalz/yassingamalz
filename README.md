@@ -19,3 +19,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## My Trending Repos 💻
+[![](https://github-readme-stats.vercel.app/api/pin/?username=yassingamalz&repo=product-service&&bg_color=45,2D9596,265073&title_color=fff&text_color=fff)](https://github.com/yassingamalz/product-service)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=yassingamalz&repo=user-management-service&&bg_color=45,2D9596,265073&title_color=fff&text_color=fff)](https://github.com/yassingamalz/user-management-service)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=yassingamalz&repo=fe-projects&bg_color=45,2D9596,265073&title_color=fff&text_color=fff)](https://github.com/yassingamalz/fe-projects)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=yassingamalz&repo=CovidPM&bg_color=45,2D9596,265073&title_color=fff&text_color=fff)](https://github.com/yassingamalz/CovidPM)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=yassingamalz&repo=basics&bg_color=45,2D9596,265073&title_color=fff&text_color=fff)](https://github.com/yassingamalz/basics)
