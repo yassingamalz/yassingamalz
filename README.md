@@ -25,7 +25,7 @@
 <br/>
 
 <p align="center">  
-  <img src="https://komarev.com/ghpvc/?username=smir45" alt="smir45" />
+  <img src="https://komarev.com/ghpvc/?username=yassingamalz" alt="smir45" />
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/smir45?label=Followers&style=social"> •   
   <img src="https://img.shields.io/github/stars/smir45?label=Stars" alt="Total Stars">
 </p>
@@ -294,11 +294,11 @@ You can click the Preview link to take a look at your changes.
 
 
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=kaustav202&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=yassingamalz&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black" />
  </br>
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=kaustav202"/>
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=yassingamalz"/>
  </br>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaustav202&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassingamalz&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent" />
 </p>
      
   </td>
@@ -379,17 +379,17 @@ You can click the Preview link to take a look at your changes.
 # Featured Repositories 🚀
 
 
-<img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=RealTime-TwitterDataAnalysis&theme=swift"/> &nbsp; <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=News-Accumulator&theme=buefy"/> &nbsp; <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=JS-DOM-Snippets&theme=vue"/>
+<img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=yassingamalz&repo=RealTime-TwitterDataAnalysis&theme=swift"/> &nbsp; <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=News-Accumulator&theme=buefy"/> &nbsp; <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=yassingamalz&repo=JS-DOM-Snippets&theme=vue"/>
 
-<img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=IPL-Statistical-Analysis&theme=moltack&title_color=000000"/>
+<img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=yassingamalz&repo=IPL-Statistical-Analysis&theme=moltack&title_color=000000"/>
 
-<img width="30%" src = "https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=Gamer-Hub"/>
+<img width="30%" src = "https://github-readme-stats.vercel.app/api/pin/?username=yassingamalz&repo=Gamer-Hub"/>
 
-<img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=Tech-Vision"/>
+<img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=yassingamalz&repo=Tech-Vision"/>
 
-<img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=HomePal&theme=vue"/>
+<img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=yassingamalz&repo=HomePal&theme=vue"/>
 
-<img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=Directory-Tree-Generator&theme=apprentice"/>
+<img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=yassingamalz&repo=Directory-Tree-Generator&theme=apprentice"/>
  -->
 
 <!--
