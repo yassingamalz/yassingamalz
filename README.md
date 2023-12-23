@@ -294,11 +294,11 @@ You can click the Preview link to take a look at your changes.
 
 
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=yassingamalz&theme=algolia&show_icons=true&bg_=45,2D9596,265073&title_=navy&text_color=black" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=yassingamalz&theme=algolia&show_icons=true&bg_=45,2D9596,265073&title_=navy&text_color=#fff" />
  </br>
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=yassingamalz"/>
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=yassingamalz&bg_color=45,2D9596,265073&text_color=#fff"/>
  </br>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassingamalz&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=45,2D9596,265073" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassingamalz&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=45,2D9596,265073&text_color=#fff" />
 </p>
      
   </td>
