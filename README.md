@@ -36,7 +36,7 @@
 <code><img height="40" width="40" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png"></code>
 <table width="100%">
   <tr>
-    <td width="40%">
+    <td width="50%">
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
@@ -99,7 +99,7 @@
   ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
   ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 </td>
-<td valign="top" width="60%">
+<td valign="top" width="50%">
   
   ## 🔥📄📜 Stats
 
@@ -110,7 +110,7 @@
     </br>
     <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassingamalz&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=45,9336B4,40128B&text_color=FFFFFF&title_color=FFFFFF" />
     </br>
-    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=yassingamalz&no-frame=true&column=7&no-bg=true"/>
+    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=yassingamalz&no-frame=true&column=4&no-bg=true"/>
 
   </p>
   
