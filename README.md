@@ -110,7 +110,7 @@
     </br>
     <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassingamalz&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=45,9336B4,40128B&text_color=FFFFFF&title_color=FFFFFF" />
     </br>
-    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=yassingamalz&no-frame=true&column=3&no-bg=true"/>
+    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=yassingamalz&no-frame=true&column=3&theme=darkhub"/>
 
   </p>
   
