@@ -100,20 +100,23 @@
   ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 </td>
 <td valign="top" width="60%">
+  
+  ## 🔥📄📜 Stats
 
-## 🔥📄📜 Stats
-   <p align="center">
-            <img width="100%" src="https://github-readme-stats.vercel.app/api?username=yassingamalz&theme=algolia&show_icons=true&bg_color=45,9336B4,40128B&text_color=FFFFFF&title_color=FFFFFF" />
-            </br>
-            <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=yassingamalz&theme=ambient-gradient&background=45%2C9336B4%2C40128B"/>
-              </br>
-            <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassingamalz&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=45,9336B4,40128B&text_color=FFFFFF&title_color=FFFFFF" />
-        </p>
-</td>
+<p align="center">
+    <img width="100%" src="https://github-readme-stats.vercel.app/api?username=yassingamalz&theme=algolia&show_icons=true&bg_color=45,9336B4,40128B&text_color=FFFFFF&title_color=FFFFFF" />
+    </br>
+    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=yassingamalz&theme=ambient-gradient&background=45%2C9336B4%2C40128B"/>
+    </br>
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassingamalz&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=45,9336B4,40128B&text_color=FFFFFF&title_color=FFFFFF" />
+    </br>
+    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=yassingamalz&no-frame=true&column=7&no-bg=true"/>
+
+  </p>
+  
+ </td>
 </tr>
 </table>
-
-<br> 
 
 ## My Trending Repos 💻
 
