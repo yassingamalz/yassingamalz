@@ -23,6 +23,7 @@
 
 <br/>
 <br/>
+<div width=80%>
 <code><img height="40" width="40" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png"></code>
 <code><img height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8kPdvmlb5J1gqnNlOorusyKlJdkubZwhQNoEgkIovhw&s"></code>
 <code><img height="40" width="40" src="https://www.geekandjob.com/uploads/wiki/3abebb36b664ca8ac4d29397bb9d2705198996a5.png"></code>
@@ -35,11 +36,12 @@
 <code><img height="40" width="40" src="https://code.visualstudio.com/assets/branding/app-icon.png"></code>
 <code><img height="40" width="40" src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png"></code>
 <code><img height="40" width="40" src="https://static-00.iconduck.com/assets.00/typescript-icon-icon-1024x1024-vh3pfez8.png"></code>
+</div>
 
-<table width="100%">
+  <table width="100%">
   <tr>
     <td width="60%">
-
+      
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 <p align="center">
