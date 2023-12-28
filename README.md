@@ -20,8 +20,7 @@
 <br/>
  
  ## LANGUAGES AND TOOLS:
-
-<br/>
+ 
 <br/>
 <div width=80%>
 <code><img height="40" width="40" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png"></code>
