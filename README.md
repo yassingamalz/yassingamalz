@@ -125,7 +125,7 @@
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=yassingamalz&repo=product-service&&bg_color=45,9336B4,40128B&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF)](https://github.com/yassingamalz/product-service)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=yassingamalz&repo=user-management-service&&bg_color=45,9336B4,40128B&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF)](https://github.com/yassingamalz/user-management-service)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=yassingamalz&repo=static-pages-projects&bg_color=45,9336B4,40128B&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF)](https://github.com/yassingamalz/static-pages-projects)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=yassingamalz&repo=fe-projects&bg_color=45,9336B4,40128B&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF)](https://github.com/yassingamalz/fe-projects)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=yassingamalz&repo=CovidPM&bg_color=45,9336B4,40128B&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF)](https://github.com/yassingamalz/CovidPM)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=yassingamalz&repo=basics&bg_color=45,9336B4,40128B&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF)](https://github.com/yassingamalz/basics)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=yassingamalz&repo=basics&bg_color=45,9336B4,40128B&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF)](https://github.com/yassingamalz/static-pages-projects)
